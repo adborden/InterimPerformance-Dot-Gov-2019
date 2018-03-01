@@ -1,0 +1,12 @@
+Before jekyll
+
+    htmlproofer 3.8.0 | Error:  HTML-Proofer found 1126 failures!
+
+feature/jekyll-agencies
+
+    htmlproofer 3.8.0 | Error:  HTML-Proofer found 1000 failures!
+
+
+apgs
+
+    htmlproofer 3.8.0 | Error:  HTML-Proofer found 369 failures!
